@@ -1,7 +1,7 @@
 var fs = require('fs');
 
-var list = './list.txt'
-var listerr = './listerr.txt'
+var list = './list.txt';
+var listerr = './listerr.txt';
 
 // sync
 
